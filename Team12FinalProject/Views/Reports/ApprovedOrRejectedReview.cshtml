@@ -1,0 +1,65 @@
+﻿
+@model IEnumerable<Team12FinalProject.Models.AppUser>
+@{
+    ViewData["Title"] = "ApprovedOrRejectedReview";
+}
+<h2>Approve/Rejected Reviews Report</h2>
+<form asp-action="ApprovedOrRejectedReview" asp-controller="Reports" method="get">
+    <p class="form-group">
+        <div class="form-group">
+            <label>Sort By:</label>
+            @Html.DropDownList("SelectedSort", (SelectList)ViewBag.AllFilters, new { @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-secondary">Sort</button>
+    </p>
+
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Employee
+            </th>
+            <th>
+                UserName
+            </th>
+            <th>
+                Number of Reviews Approved
+            </th>
+            <th>
+                Number of Reviews Rejected
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName) @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.myApprovedReviews)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.myRejectedReviews)
+            </td>
+
+        </tr>
+        }
+    </tbody>
+</table>
+<p>
+    Displaying @ViewBag.Record number of records
+</p>
+<div>
+    <a asp-action="Index">Back to Reports</a>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+</div>

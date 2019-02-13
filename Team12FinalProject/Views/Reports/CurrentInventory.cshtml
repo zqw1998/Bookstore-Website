@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Team12FinalProject.Models.Book>
+@{
+    ViewData["Title"] = "CurrentInventory";
+}
+<h2>Current Inventory Report</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CopiesOnHand)
+            </th>
+            <th>
+                Average Cost
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CopiesOnHand)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AvgCost)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    Displaying @ViewBag.Record number of records
+</p>
+<p>
+    Total Value of Inventory is @ViewBag.Total
+</p>
+
+<div>
+    <a asp-action="Index">Back to Reports</a>
+    <a asp-controller="Home" asp-action="Index">Home</a>
+</div>

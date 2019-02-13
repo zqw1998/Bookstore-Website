@@ -1,0 +1,58 @@
+﻿@model Team12FinalProject.Models.Procurement
+@using Team12FinalProject.Models
+@{
+    ViewBag.Title = "EditOrder";
+}
+<h2>Confirm Reorder</h2>
+@Html.HiddenFor(model => model.ProcurementID)
+@if (Model.ProcurementType == ProcurementType.Manual)
+{
+    <p>
+        @Html.ActionLink("Add Items", "Index", "Books", null, new { @class = "btn btn-primary" })
+    </p>
+    <p><span class="text-warning">@ViewBag.ExistingOrder</span></p>
+}
+<table class="table">
+    <tr>
+        <th>Book Title</th>
+        <th>Quantity</th>
+        <th>Reorder Price</th>
+        <th>Total Price</th>
+        <th></th>
+    </tr>
+    @foreach (ProcurementDetail pd in Model.ProcurementDetails)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => pd.Book.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => pd.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => pd.BookPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => pd.ExtendedPrice)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "ProcurementDetails", new { id = pd.ProcurementDetailID }, null) |
+                @Html.ActionLink("Delete", "Delete", "ProcurementDetails", new { id = pd.ProcurementDetailID }, null)
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    <table class="table table-sm table-bordered" style="width:30%">
+        <tr>
+            <th colspan="2" style="text-align:center">Order Summary</th>
+        </tr>
+        <tr>
+            <td>Order Total</td>
+            <td>@Html.DisplayFor(o => o.ProcurementTotal)</td>
+        </tr>
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Place Order", "ReorderConfirmed", "Procurements", new { id = Model.ProcurementID }, new { @class = "btn btn-primary" })
+</p>

@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<h2>Reports</h2>
+@Html.ActionLink("All Books Sold", "AllBooksSold", "Reports", null, new { @class = "btn btn-primary" })
+@Html.ActionLink("All Customer", "AllCustomers", "Reports", null, new { @class = "btn btn-secondary" })
+@Html.ActionLink("All Orders", "AllOrders", "Reports", null, new { @class = "btn btn-info" })
+@Html.ActionLink("Approved/Rejected Reviews", "ApprovedOrRejectedReview", "Reports", null, new { @class = "btn btn-warning" })
+@Html.ActionLink("Current Inventory", "CurrentInventory", "Reports", null, new { @class = "btn btn-danger" })
+@Html.ActionLink("Totals", "Totals", "Reports", null, new { @class = "btn btn-success" })

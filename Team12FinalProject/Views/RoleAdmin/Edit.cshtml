@@ -1,0 +1,130 @@
+﻿@using Team12FinalProject.Models
+@model RoleEditModel
+@{
+    ViewBag.Title = "Edit Role";
+}
+<h2>Edit Role: @Model.Role.Name</h2>
+@Html.ValidationSummary()
+@using (Html.BeginForm())
+{
+    <input type="hidden" name="roleName" value="@Model.Role.Name" />
+
+
+    @*<div class="panel panel-primary">
+            <div class="panel-heading">Add To @Model.Role.Name</div>
+            <table class="table table-striped">
+                @if (Model.NonMembers.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="3">All Users Are Members</td>
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <th>First Name</th>
+                        <th>Email</th>
+                        <th>Add to Role</th>
+                    </tr>
+                    foreach (AppUser user in Model.NonMembers)
+                    {
+                        <tr>
+                            <td>@user.FirstName</td>
+                            <td>@user.UserName</td>
+                            <td>
+                                <input type="checkbox" name="IdsToAdd" value="@user.Id" />
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>*@
+
+
+    @if (Model.Role.Name == "Employee" && User.IsInRole("Manager"))
+    {
+        <p>
+            <a asp-action="RegisterE">Create New Employee</a>
+        </p>
+        <div class="panel panel-primary">
+            <table class="table table-striped">
+                @if (Model.Members.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="3">No Users Are @Model.Role.Name</td>
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Fired</th>
+                        <th>Promote to Manager</th>
+                    </tr>
+                    foreach (AppUser user in Model.Members)
+                    {
+                        <tr>
+                            <td>@user.FirstName</td>
+                            <td>@user.LastName</td>
+                            <td>@user.UserName</td>
+                            <td>@user.Disabled</td>
+                            <td>
+                                <input type="checkbox" name="IdsToAdd" value="@user.Id" />
+                            </td>
+                            <td>
+                                <a asp-action="ModifyE" asp-route-id="@user.Id">Modify Account</a> |
+                                <a asp-action="Fire" asp-route-id="@user.Id">Fire this Employee</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>
+    }
+
+    @if (Model.Role.Name == "Customer")
+    {
+        <p>
+            <a asp-action="RegisterC">Create New Customer</a>
+        </p>
+        <div class="panel panel-primary">
+            <table class="table table-striped">
+                @if (Model.Members.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="3">No Users Are @Model.Role.Name</td>
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Disabled</th>
+                    </tr>
+                    foreach (AppUser user in Model.Members)
+                    {
+                        <tr>
+                            <td>@user.FirstName</td>
+                            <td>@user.LastName</td>
+                            <td>@user.UserName</td>
+                            <td>@user.Disabled</td>
+                            <td>
+                                <a asp-action="ModifyC" asp-route-id="@user.Id">Modify Account</a> |
+                                <a asp-action="Fire" asp-route-id="@user.Id">Disable this Customer</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>
+    }
+
+    <button type="submit" class="btn btn-danger">Save</button>
+    @Html.ActionLink("Cancel", "Index", null, new { @class = "btn btn-success" })
+}
+
+

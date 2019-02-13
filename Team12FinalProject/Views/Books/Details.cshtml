@@ -1,0 +1,157 @@
+﻿@model Team12FinalProject.Models.Book
+@using Team12FinalProject.Models
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Book Details</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.UniqueID)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.UniqueID)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Author)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Author)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt>
+                Genre Type
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Genre.GenreType)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.PublishedDate)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.PublishedDate)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.AvgRating)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.AvgRating)
+            </dd>
+            @if (User.IsInRole("Manager"))
+            {
+                <dt>
+                    @Html.DisplayNameFor(model => model.Availablity)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Availablity)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.CopiesOnHand)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.CopiesOnHand)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Cost)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Cost)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Reorder)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Reorder)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.LastOrdered)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.LastOrdered)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Discontinued)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Discontinued)
+                </dd>
+            }
+        </dl>
+    </div>
+    <div>
+        <table class="table table-hover table-striped table-sm">
+            <thead>
+                <tr>
+                    <th>Reviews</th>
+                    <th>Customer Rating</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Review cd in Model.Reviews)
+                {
+                    <tr>
+                        @if (cd.Approve == Approve.Yes)
+                        {
+                            <td>@cd.Reviews</td>
+                            <td>@cd.CustomerRating</td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    @if (Model.CopiesOnHand < 3 && Model.CopiesOnHand > 0)
+    {
+        <p>There is only @Model.CopiesOnHand left!</p>
+    }
+    @if (Model.CopiesOnHand == 0)
+    {
+        <p>This book is currently out of stock.</p>
+    }
+    <p>
+        @if (User.IsInRole("Customer"))
+        {
+            @if (Model.Discontinued == false)
+            {
+                @Html.ActionLink("Add to Shopping Cart", "AddToOrder", "Orders", new { id = Model.BookID }, new { @class = "btn btn-primary" })
+            }
+            @Html.ActionLink("Review this Book", "Create", "Reviews", new { id = Model.BookID }, new { @class = "btn btn-secondary" })
+        }
+        @if (User.IsInRole("Manager"))
+        {
+            @Html.ActionLink("Edit", "Edit", "Books", new { id = Model.BookID }, new { @class = "btn btn-secondary" })
+            @Html.ActionLink("Reorder", "Create", "ProcurementDetails", new { id = Model.BookID }, new { @class = "btn btn-warning" })
+            @if (Model.Discontinued == false)
+            {
+                @Html.ActionLink("Discontinue", "Discontinue", "Books", new { id = Model.BookID }, new { @class = "btn btn-danger" })
+            }
+            @if (Model.Discontinued == true)
+            {
+                @Html.ActionLink("Continue", "Continue", "Books", new { id = Model.BookID }, new { @class = "btn btn-success" })
+            }
+        }
+    </p>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</body>

@@ -1,0 +1,36 @@
+﻿@model Team12FinalProject.Models.Coupon
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Coupon</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CouponCode)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CouponCode)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CouponType)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CouponType)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CouponID">Disable/enable the coupon</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

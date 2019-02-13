@@ -1,0 +1,82 @@
+﻿@model Team12FinalProject.Models.Order
+@using Team12FinalProject.Controllers
+
+@{
+    ViewBag.Title = "CheckOut";
+}
+<h2>Check Out</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <table class="table table-sm table-bordered" style="width:30%">
+        <tr>
+            <th colspan="2" style="text-align:center">Order Summary</th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.OrderDate)</td>
+            <td>@Html.DisplayFor(model => model.OrderDate)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Subtotal)</td>
+            <td>@Html.DisplayFor(model => model.Subtotal)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.DiscountAmt)</td>
+            <td>@Html.DisplayFor(model => model.DiscountAmt)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.ShippingAmt)</td>
+            <td>@Html.DisplayFor(model => model.ShippingAmt)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.TotalPrice)</td>
+            <td>@Html.DisplayFor(model => model.TotalPrice)</td>
+        </tr>
+    </table>
+    <h4>Shipping Address</h4>
+    <p>
+
+        @(Model.AppUser.Street + ", " + Model.AppUser.City + ", " + Model.AppUser.State + " " + Model.AppUser.ZipCode)
+    </p>
+    <h4>Confirm the Order</h4>
+    <div class="form-group">
+        <label class="radio">@Html.RadioButton("Confirm", Confirm.Yes, true) Yes</label>
+        <label class="radio">@Html.RadioButton("Confirm", Confirm.No) No</label>
+    </div>
+    <div class="form-horizontal">
+        <h4>Order</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.OrderID)
+        <div class="form-group">
+            <label class="control-label col-md-2">Using Existing Credit Card</label>
+            <div class="col-md-10">
+                @Html.DropDownList("SelectedCard", (SelectList)ViewBag.allCards, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div>
+            @Html.ActionLink("Add Credit Card", "Index", "CreditCards")
+        </div>
+
+
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Place the Order" class="btn btn-default" />
+        </div>
+    </div>
+}
+
+<h2>Enter the Promo Code(one promo per order)</h2>
+<form asp-action="SearchCoupons" Asp-controller="Orders" method="get">
+    <div class="form-group">
+        <label class="control-label col-md-2">Enter the Promo Code(one promo per order)</label>
+        <input name="CouponC" class="from-control" />
+    </div>
+    <button type="Submit" class="btn btn-danger">Apply the Promo Code</button>
+</form>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

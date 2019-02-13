@@ -1,0 +1,63 @@
+﻿@using Team12FinalProject.Models
+@model IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+<div>
+    <h2>Change your account settings</h2>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>User Name:</dt>
+        <dd>@Model.UserName</dd>
+        <dt>Email:</dt>
+        <dd>@Model.Email</dd>
+        <dt>FirstName:</dt>
+        <dd>@Model.FirstName</dd>
+        <dt>LastName:</dt>
+        <dd>@Model.LastName</dd>
+        <dt>MiddleInitial:</dt>
+        <dd>@Model.Initial</dd>
+        @if (User.IsInRole("Customer"))
+        {
+            <dt>Birthday:</dt>
+            <dd>@Model.Birthday</dd>
+        }
+        <dt>Street:</dt>
+        <dd>@Model.Street</dd>
+        <dt>City:</dt>
+        <dd>@Model.City</dd>
+        <dt>State:</dt>
+        <dd>@Model.State</dd>
+        <dt>ZipCode:</dt>
+        <dd>@Model.ZipCode</dd>
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change your password", "ChangePassword", null, new { @class = "btn btn-primary" })
+            }
+            ]
+        </dd>
+        <dd>
+            <br>
+            [
+            @if (User.IsInRole("Customer"))
+            {
+                @Html.ActionLink("Modify your account information", "Edit", null, new { @class = "btn btn-primary" })
+            }
+            else
+            {
+                @Html.ActionLink("Modify your account information", "EditE", null, new { @class = "btn btn-primary" })
+            }
+
+            ]
+        </dd>
+        <dd>
+            <br>
+            @Html.ActionLink("Manage your credit card", "Index", "CreditCards", null, new { @class = "btn btn-primary" })
+        </dd>
+    </dl>
+
+</div>
+<hr />

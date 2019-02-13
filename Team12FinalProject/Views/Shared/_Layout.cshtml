@@ -1,0 +1,115 @@
+﻿@addTagHelper "* , Microsoft.AspNetCore.Mvc.TagHelpers"
+
+@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService AuthorizationService
+@RenderSection("scripts", required: false)
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-content" aria-controls="nav-content" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Search Books</a>
+            </div>
+            <div class="collapse navbar-collapse" id="nav-content">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Books", "Index", "Books", null, new { @class = "nav-link" })
+                    </li>
+
+                    @if (User.IsInRole("Customer"))
+                    {
+
+                        <li class="nav-item">
+                            @Html.ActionLink("Orders", "Index", "Orders", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Shopping Cart", "ShoppingCart", "Orders", null, new { @class = "nav-link" })
+                        </li>
+                    }
+                    else
+                    {
+                        @if (User.IsInRole("Employee"))
+                        {
+                            <li class="nav-item">
+                                @Html.ActionLink("Manage Users", "Index", "RoleAdmin", null, new { @class = "nav-link" })
+                            </li>
+                            <li class="nav-item">
+                                @Html.ActionLink("Pending Reviews", "PendingIndex", "Reviews", null, new { @class = "nav-link" })
+                            </li>
+                        }
+                        else
+                        {
+                            @if (User.IsInRole("Manager"))
+                            {
+                                <li class="nav-item">
+                                    @Html.ActionLink("Manage Users", "Index", "RoleAdmin", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Pending Reviews", "PendingIndex", "Reviews", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Orders", "Index", "Orders", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Procurement", "Index", "Procurements", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Coupon", "Index", "Coupons", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Approved Reviews", "ApprovedIndex", "Reviews", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Report", "Index", "Reports", null, new { @class = "nav-link" })
+                                </li>
+                                <li class="nav-item">
+                                    @Html.ActionLink("Shipping", "Index", "Shippings", null, new { @class = "nav-link" })
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    @Html.ActionLink("Log In", "Index", "Account", null, new { @class = "nav-link" })
+                                </li>
+                            }
+
+
+
+                        }
+                    }
+
+
+
+                </ul>
+            </div>
+        </div>
+        @await Html.PartialAsync("_LoginPartial")
+    </nav>
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Team12FinalProject</p>
+        </footer>
+    </div>
+    <script src="~/lib/jquery/jquery-3.3.1.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
+
+</body>
+</html>

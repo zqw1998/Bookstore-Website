@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Team12FinalProject.Models.Book>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Reorder Books", "Create", "Procurements", null, new { @class = "btn btn-primary" })
+    @Html.ActionLink("View Procurements", "ProcurementList", "Procurements", null, new { @class = "btn btn-secondary" })
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuantityOnOrder)
+            </th>
+            <th>Manager Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.Title, "Details", "Books", new { id = item.BookID })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QuantityOnOrder)
+                </td>
+                <td>
+                    @string.Join(", ", item.ProcurementDetails.Select(x => x.Procurement.AppUser.FirstName + " " + x.Procurement.AppUser.LastName).Distinct())
+                </td>
+                <td>
+                    <a asp-action="CheckIn" asp-route-id="@item.BookID">Check In</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

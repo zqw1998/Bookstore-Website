@@ -1,0 +1,127 @@
+﻿@using Team12FinalProject.Controllers
+@using Team12FinalProject.Models
+@model Team12FinalProject.Models.Order
+@{
+    ViewBag.Title = "Summary";
+}
+@{
+    var Lst = ViewBag.rec as IEnumerable<Team12FinalProject.Models.Book>;
+}
+
+<div>
+    <h3>Thank You for Shopping With Us!</h3>
+    <h4>Here is Your Order Summary</h4>
+    <hr />
+    <h4>Shipping Address</h4>
+    <p>
+
+        @(Model.AppUser.Street + ", " + Model.AppUser.City + ", " + Model.AppUser.State + " " + Model.AppUser.ZipCode)
+    </p>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OrderNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CreditCard.CardNumberShort)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CreditCard.CardNumberShort)
+        </dd>
+
+    </dl>
+</div>
+
+<h4>Book</h4>
+<table class="table table-sm table-striped table-hover">
+    <tr>
+        <th>Book Title</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Total Price</th>
+    </tr>
+    @foreach (OrderDetail od in Model.OrderDetails)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => od.Book.Title)</td>
+            <td>@Html.DisplayFor(modelItem => od.BookPrice)</td>
+            <td>@Html.DisplayFor(modelItem => od.Quantity)</td>
+            <td>@Html.DisplayFor(modelItem => od.TotalPrice)</td>
+        </tr>
+    }
+</table>
+<table class="table table-sm table-bordered" style="width:30%">
+    <tr>
+        <th colspan="2" style="text-align:center">Order Summary</th>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => model.Subtotal)</td>
+        <td>@Html.DisplayFor(model => model.Subtotal)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => model.ShippingAmt)</td>
+        <td>@Html.DisplayFor(model => model.ShippingAmt)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => model.DiscountAmt)</td>
+        <td>@Html.DisplayFor(model => model.DiscountAmt)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => model.TotalPrice)</td>
+        <td>@Html.DisplayFor(model => model.TotalPrice)</td>
+    </tr>
+</table>
+<h4>Book Reccomendations</h4>
+<table class="table table-sm table-striped table-hover">
+    <tr>
+        <th>
+            Book Title
+        </th>
+        <th>
+            Genre
+        </th>
+        <th>
+            Author
+        </th>
+        <th>
+            Rating
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Lst)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Genre.GenreType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Author)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AvgRating)
+        </td>
+
+    </tr>
+    }
+</table>
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Home")
+</div>

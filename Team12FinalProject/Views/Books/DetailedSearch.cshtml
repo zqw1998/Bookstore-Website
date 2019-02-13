@@ -1,0 +1,28 @@
+﻿@using Team12FinalProject.Controllers
+<h2>Detailed Search</h2>
+<form asp-action="DisplaySearchResults" asp-controller="Books" method="get">
+    <div class="form-group">
+        <label>Title:</label>
+        <input name="SearchTitle" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Author:</label>
+        <input name="SearchAuthor" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Choose a Genre:</label>
+        @Html.DropDownList("SelectedGenre", (SelectList)ViewBag.AllGenres, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        Unique Number: @Html.TextBox("UniqueNum", null, new { @class = "form-control" })<div class="text-danger">@ViewBag.Message</div>
+    </div>
+    <div class="form-group">
+        <label>Sort By:</label>
+        @Html.DropDownList("SelectedFilter", (SelectList)ViewBag.AllFilters, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label class="radio">@Html.RadioButton("SelectedCondition", Condition.All, true)All Books</label>
+        <label class="radio">@Html.RadioButton("SelectedCondition", Condition.InStockOnly)Only Books In Stock</label>
+    </div>
+    <button type="submit" class="btn btn-danger">Search</button>
+</form>

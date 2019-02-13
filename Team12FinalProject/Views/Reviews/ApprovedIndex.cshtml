@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Team12FinalProject.Models.Review>
+@{
+    ViewData["Title"] = "ApprovedIndex";
+}
+<h2>Approved/Rejected Reviews</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Approve)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Approver)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerRating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reviews)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author.FirstName)  @Html.DisplayFor(modelItem => item.Author.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Approve)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Approver.FirstName) @Html.DisplayFor(modelItem => item.Approver.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerRating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Reviews)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-controller="Home" asp-action="Index">Back to Home</a>
+</div>

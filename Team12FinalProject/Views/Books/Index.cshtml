@@ -1,0 +1,145 @@
+﻿@model IEnumerable<Team12FinalProject.Models.Book>
+@using Team12FinalProject.Controllers
+@{
+    ViewData["Title"] = "Index";
+}
+@if (User.IsInRole("Manager"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+<form asp-action="Index" asp-controller="Books" method="get">
+    <p class="form-group">
+        Search: <input name="SearchString" class="form-control" /><br />
+        <button type="submit" class="btn btn-secondary">Search</button>
+        <a asp-action="DetailedSearch" class="btn btn-success">Detailed Search</a>
+        <a asp-action="ShowAll" class="btn btn-danger">Show All</a>
+        <div class="form-group">
+            <label>Sort By:</label>
+            @Html.DropDownList("SelectedFilter", (SelectList)ViewBag.AllFilters, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label class="radio">@Html.RadioButton("SelectedCondition", Condition.All)All Books</label>
+            <label class="radio">@Html.RadioButton("SelectedCondition", Condition.InStockOnly, true)Only Books In Stock</label>
+        </div>
+    </p>
+    <p>
+        Displaying @ViewBag.SelectedBooks out of @ViewBag.TotalBooks Books
+    </p>
+</form>
+<h2>Book List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UniqueID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre.GenreType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvgRating)
+            </th>
+            @if (User.IsInRole("Manager"))
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.Availablity)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CopiesOnHand)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cost)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Reorder)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LastOrdered)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Discontinued)
+                </th>
+                <th>
+                    Average Profit
+                </th>
+            }
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @if (item.Title != null)
+                {
+                    <td>
+                        @Html.ActionLink(item.Title, "Details", new { id = item.BookID })
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Author)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UniqueID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PublishedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Genre.GenreType)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AvgRating)
+                    </td>
+                    @if (User.IsInRole("Manager"))
+                    {
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Availablity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CopiesOnHand)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Cost)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Reorder)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.LastOrdered)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Discontinued)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AvgProfit)
+                        </td>
+                    }
+                    @if (User.IsInRole("Manager"))
+                    {
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.BookID">Edit</a>
+                        </td>
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+@*<a href=" ">~/Seeding/SeedGenres.cs</a >*@

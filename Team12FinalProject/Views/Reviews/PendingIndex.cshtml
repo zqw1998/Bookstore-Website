@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Team12FinalProject.Models.Review>
+@{
+    ViewData["Title"] = "PendingIndex";
+}
+<h2>Pending Reviews</h2>
+<table class="table">
+    <thead>
+
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Reviews)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerRating)
+            </th>
+            <th></th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Reviews)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerRating)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ReviewID">Edit</a> |
+                    <a asp-action="ApproveReview" asp-route-id="@item.ReviewID">Approve Review</a> |
+                    <a asp-action="RejectReview" asp-route-id="@item.ReviewID">Reject Review</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+<div>
+    <a asp-controller="Home" asp-action="Index">Back to Home</a>
+</div>

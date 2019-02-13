@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Team12FinalProject.Models.Procurement>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Procurements</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProcurementDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProcurementType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProcurementTotal)
+            </th>
+            <th>Manager Name</th>
+            <th>Completed</th>
+            <th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProcurementDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProcurementType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProcurementTotal)
+                </td>
+                <td>
+                    @if (item.AppUser != null)
+    {
+                @(item.AppUser.FirstName + " " + item.AppUser.LastName)
+}
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Completed)
+                </td>
+                <td>
+                    @if (item.Completed == false)
+                    {
+                        <a asp-action="EditOrder" asp-route-id="@item.ProcurementID">Edit</a>@:&nbsp;
+                        @:&nbsp;
+
+                    }
+                    <a asp-action="Details" asp-route-id="@item.ProcurementID">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,855 @@
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+H:/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+H:/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Desktop/Team12FinalProject 11/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/annab/source/repos/Team12FinalProject12/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+C:/Users/Diana Luong/Downloads/Team12FinalProject12 (1)/Team12FinalProject12/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+/Users/sherryjiang/Downloads/Team12FinalProject13/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.deps.json
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.json
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.runtimeconfig.dev.json
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.dll
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.pdb
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.dll
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/bin/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csprojAssemblyReference.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CoreCompileInputs.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorAssemblyInfo.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfoInputs.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.AssemblyInfo.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.input.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.TagHelpers.output.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorCoreGenerate.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/EditE.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/DetailedSearch.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Details.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Books/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Details.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Coupons/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Delete.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/CreditCards/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Genres/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Delete.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/OrderDetails/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/AddToOrder.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/CheckOut.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Details.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/RemoveFromOrder.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Orders/Summary.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Delete.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/ProcurementDetails/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/CheckIn.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Details.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/EditOrder.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Procurements/ProcurementList.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllBooksSold.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllCustomers.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/AllOrders.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/ApprovedOrRejectedReview.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/CurrentInventory.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reports/Totals.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/ApprovedIndex.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Reviews/PendingIndex.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Fire.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/Modify.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyC.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/ModifyE.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterC.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/RoleAdmin/RegisterE.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Create.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Edit.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/Shippings/Index.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cache
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.RazorTargetAssemblyInfo.cs
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.Views.pdb
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.dll
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.pdb
+/Users/z/Downloads/Team12FinalProject13 3/Team12FinalProject/Team12FinalProject/obj/Debug/netcoreapp2.1/Team12FinalProject.csproj.CopyComplete
